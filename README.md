@@ -1,11 +1,11 @@
 # CNN-LSTM-CTC Amharic OCR
-## End-to-Eend learning
+## End-to-End learning
 - This method uses CNN-LSTM-CTC networks.
-- To train and test this model, please use the ADOCR dataset from http://www.dfki.uni-kl.de/~belay/. However, to play with the code you may also use the sample database given, together with the source code, in this directry.
+- To train and test this model, please use the ADOCR dataset from http://www.dfki.uni-kl.de/~belay/. However, to play with the code you may also use the sample database given, together with the source code, in this directory.
 - Both the text-line images and corresponding ground truth are given in numpy format.
 
 
-## To run the code with Terminal use the following info (Note: if you want to train using the whole data, make sure that your pc hase enough memory >=32 GB RAM, otherwise you need to write your own code for datagenarator).
+### To run the code with Terminal use the following info (Note: if you want to train using the whole data, make sure that your pc has enough memory >=32 GB RAM, otherwise you need to write your own code for datagenerator).
 ```
 # Load and Pre-process data
 python data_loader.py
