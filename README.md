@@ -1,7 +1,7 @@
 # CNN-LSTM-CTC Amharic OCR
 ## End-to-End learning
 - This method uses CNN-LSTM-CTC networks.
-- To train and test this model, please use the ADOCR dataset from <s> http://www.dfki.uni-kl.de/~belay/</s> . https://bdu-birhanu.github.io/amharic.html (new link) However, to play with the code you may also use the sample database given, together with the source code, in this directory.
+- To train and test this model, please use the ADOCR dataset from <s> http://www.dfki.uni-kl.de/~belay/</s>. (new link) https://bdu-birhanu.github.io/amharic.html  However, to play with the code you may also use the sample database given, together with the source code, in this directory.
 - Both the text-line images and corresponding ground truth are given in numpy format.
 
 
